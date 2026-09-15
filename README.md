@@ -55,15 +55,13 @@ The dashboard section includes:
 
 ### Analysis
 
-[Analysis_1]
-
-[Analysis_2]
+![Analysis](Analysis_1.png)
+![Analysis](Analysis_2.png)
 
 ### Dashboard
 
-[Dashboard_1]
-
-[Dashboard_2]
+![Dashboard](Dashboard_1.png)
+![Dashboard](Dashboard_2.png)
 
 ##  Tools & Skills
 
