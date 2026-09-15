@@ -55,15 +55,15 @@ The dashboard section includes:
 
 ### Analysis
 
-[Analysis Screenshot 1]
+[Analysis_1]
 
-[Analysis Screenshot 2]
+[Analysis_2]
 
 ### Dashboard
 
-[Dashboard Screenshot 1]
+[Dashboard_1]
 
-[Dashboard Screenshot 2]
+[Dashboard_2]
 
 ##  Tools & Skills
 
